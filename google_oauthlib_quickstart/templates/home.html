@@ -1,0 +1,22 @@
+<div style="word-wrap:break-word; padding: 0  0 20px 0; color:blue;">
+    <strong>Messages: </strong><br /><br />
+    {{ messages }}
+</div>
+
+<div style="word-wrap:break-word; padding: 0  0 20px 0;">
+    <strong>User Info: </strong><br /><br />
+    {{ user }}
+</div>
+
+<div style="word-wrap:break-word; padding: 0  0 20px 0;">
+    <strong>Using Google API client library: </strong><mark>List Drive content</mark><br /><br />
+    {{ api_call_return }}
+</div>
+
+<div style="word-wrap:break-word; padding: 0  0 20px 0;">
+    <strong>Using plain HTTP requests (bearer authentication): </strong><mark>Create a new folder</mark><br /><br />
+    {{ hreq_bearer_auth_api_call_return }}
+</div>
+
+<hr>
+<a href="/logout/">logout</a>
