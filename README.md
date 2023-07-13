@@ -10,7 +10,6 @@
   <img src="logos.png" alt="Google APIs + OAuth2 + OIDC + Django"/>
 </p>
 
-
 **Google OAuthLib Django** is a Django boilerplate app implementing a full Google OAuth2 authentication flow using [`google-auth-oauthlib`](https://github.com/googleapis/google-auth-library-python-oauthlib) with [Sessions](https://docs.djangoproject.com/en/3.1/topics/http/sessions/#using-sessions-in-views).
 
 This is not intended as a replacement for Django's users sign up/in mechanism. [Django AllAuth](https://github.com/pennersr/django-allauth) is more suited for such use case. 
