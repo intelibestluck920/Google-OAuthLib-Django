@@ -5,7 +5,7 @@ From Sokol. Thanks.
 
 
 I don't have whatsapp but I use telegram and skype.
-and on freelancer platform, it is not allowed to exchange external info so I will say that "it is allowed here" on freelancer.
+and on freelancer platform, it is not allowed to exchange external info so I will say that "it is not allowed here" on freelancer.
 and please write down your whatsapp or telegram via email please.
 and then I will contact with you with my team mate's whatsapp.
 Sokol.
